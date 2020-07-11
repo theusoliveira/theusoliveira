@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome to my GitHub profile! 😄
+#### You can know more about me at http://mholiveira.com/
+
+---
+
+### Bem vindo ao meu perfil do GitHub! 😄
+#### Você pode saber mais sobre mim em http://mholiveira.com/
 
 <!--
 **theusoliveira/theusoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
